@@ -5,7 +5,7 @@ Header( "HTTP/1.1 301 Moved Permanently" );
 //Header( "Location: http://gloverialismanterasas.blogspot.com/");
 
 
-Header( "Location: https://elmientrolemasterliasla.blogspot.com/");
+Header( "Location: https://salariomasteriastomonte.blogspot.com/");
 //Header( "Location: https://www.google.com");
 
 ?>
